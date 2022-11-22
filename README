@@ -1,0 +1,5 @@
+This project aims to create an API in the form of a movie application using Rshiny. 
+The URL of the API is: https://serenagruarin.shinyapps.io/projet_rshiny/
+If you want to run the code from Rstudio, the two scripts "ui" and "server", a folder named "data" containing the csv file "movies" and a folder named "www" containing the images must be in the same folder
+Then your directory path must be this folder, and you must execute in the console "RunApp(getwd)".
+If you have any problem with the execution, you can contact me by mail : serena.gr@outlook.com
